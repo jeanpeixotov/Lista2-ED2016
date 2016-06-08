@@ -1,3 +1,9 @@
+/*
+	Autores:    Felipe Luiz Soares 0030481511012
+		    			Jean Vitor  0030481511019
+
+	Exercício 3 da lista 2.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
